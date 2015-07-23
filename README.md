@@ -9,6 +9,6 @@ For more information, please visit:
 
 CodeBook.md describes the variables, the data, and any work that was done to prepare tidy data. 
 
-Analysis.R contains all the code to perform the analyses described in the five steps.  These five steps are preceded by saving file locally. The code was developed and the analysis was run using RStudio Version 0.98.1103.  
+run_analysis.R contains all the code to perform the analyses described in the five steps.  These five steps are preceded by saving file locally. The code was developed and the analysis was run using RStudio Version 0.98.1103.  
 
 averages_each_variable.txt is the output of the final step.  It is an independent tidy data set with the average of each variable for each activity and each subject.
