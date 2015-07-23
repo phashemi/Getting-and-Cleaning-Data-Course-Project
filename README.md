@@ -1,6 +1,9 @@
 # Getting and Cleaning Data Course Project
 
-This repository hosts R code and documentation associated with the Johns Hopkins University Data Science Specialization track course, “Getting and Cleaning Data”.  The data set used for this project is the “Human Activity Recognition Using Smartphones Data Set”, which is hosted at the UCI Machine Learning Repository. For more information, please visit: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
+This repository hosts R code and documentation associated with the Johns Hopkins University Data Science Specialization track course, “Getting and Cleaning Data”.  The data set used for this project is the “Human Activity Recognition Using Smartphones Data Set”, which is hosted at the UCI Machine Learning Repository. 
+
+For more information, please visit: 
+<http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>  
 
 # Files 
 
