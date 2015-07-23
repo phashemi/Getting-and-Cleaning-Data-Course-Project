@@ -59,7 +59,7 @@ head(onedataset$activity,30)
 
 ## Step 4 - Appropriately label the data set with descriptive variable names
 names(onedataset) <- gsub("^t", "time", names(onedataset))
-names(onedataset) <- gsub("^Freq", "frequency", names(onedataset))
+names(onedataset) <- gsub("Freq", "frequency", names(onedataset))
 names(onedataset) <- gsub("Acc", "Accelerometer", names(onedataset))
 names(onedataset) <- gsub("Gyro", "Gyroscope", names(onedataset))
 names(onedataset) <- gsub("Mag", "Magnitude", names(onedataset))
